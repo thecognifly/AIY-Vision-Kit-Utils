@@ -1,4 +1,4 @@
-# AIYVisionKit_Utils
+# AIY Vision Kit - Utils
 Libraries and examples for using the AIY Vision Kit with CogniFly (or any RPI Zero actually...)
 
 Before you start, make sure to backup your current RPI Zero W sd card ([instructions here](https://thepihut.com/blogs/raspberry-pi-tutorials/17789160-backing-up-and-restoring-your-raspberry-pis-sd-card)). After that, you can restore the image supplied in [this release](https://github.com/thecognifly/AIYVisionKit_Utils/releases/tag/Alpha). The same release has the dataset and TensorFlow checkpoints used in these step-by-step instructions. All notebooks were created using [Google Colab](https://colab.research.google.com/), so there's no need for a computer with GPU.
